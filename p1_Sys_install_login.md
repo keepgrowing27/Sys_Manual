@@ -15,7 +15,7 @@
 
 - 在打开的网页中，点击【客户端下载】，客户端大小约 31 MB。
 
-<p align="center"><img src="/pic01_download_page.png" width="300">
+<p align="center"><img src="/pic01_download_page.png" width="600">
 
 - 解压下载的【ClientInstall.rar】压缩文件，然后右键以管理员身份运行文件夹中的【安装Excel客户端.exe】图标，程序会自动选择32位或64位客户端进行安装，建议全程接受协议和保持默认设置，点击几次下一步即完成客户端的安装。
 
