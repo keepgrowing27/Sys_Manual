@@ -34,5 +34,10 @@
 ## 三、TABLE OF CONTENT 目   录
 
 
-* [一、客户端的安装、登录及升级](p1_Sys_install_login.md)
+* [一、电脑客户端的安装及登录](p1_Sys_install_login_cp.md)
 
+* [二、手机端的配置及登录](p1_Sys_install_login_cp.md)
+
+* [三、客户端的升级](p1_Sys_install_login_cp.md)
+
+* [四、账号的申请与获取](p1_Sys_install_login_cp.md)
