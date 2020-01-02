@@ -40,6 +40,8 @@
 
 * [三、手机端的配置及登录](p3_sys_install_login_ph.md)
 
-* [四、客户端的升级](p1_sys_install_login_cp.md)
+* [四、更改密码和忘记密码](p4_password.md)
+
+* [五、客户端的升级](p1_sys_install_login_cp.md)
 
 
