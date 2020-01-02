@@ -42,6 +42,6 @@
 
 * [四、更改密码和忘记密码](p4_password.md)
 
-* [五、客户端的升级](p1_sys_install_login_cp.md)
+* [五、客户端升级和系统升级](p5_update.md)
 
 
